@@ -266,7 +266,7 @@
 	<SubTexture name="BF NOTE RIGHT0059" x="2347" y="988" width="408" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="407"/>
 	<SubTexture name="BF NOTE RIGHT0060" x="2347" y="988" width="408" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="407"/>
 	<SubTexture name="BF NOTE RIGHT0061" x="2347" y="988" width="408" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="407"/>
-	<SubTexture name="BF NOTE RIGHT MISS0000" x="1929" y="988" width="408" height="405" frameX="-7" frameY="-30" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="19829" y="988" width="408" height="405" frameX="-7" frameY="-30" frameWidth="409" frameHeight="407"/>
 	<SubTexture name="BF NOTE RIGHT MISS0001" x="2765" y="988" width="395" height="432" frameX="0" frameY="0" frameWidth="415" frameHeight="435"/>
 	<SubTexture name="BF NOTE RIGHT MISS0002" x="2765" y="988" width="395" height="432" frameX="0" frameY="0" frameWidth="415" frameHeight="435"/>
 	<SubTexture name="BF NOTE RIGHT MISS0003" x="3170" y="988" width="400" height="432" frameX="-1" frameY="0" frameWidth="415" frameHeight="435"/>
