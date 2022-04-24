@@ -58,7 +58,7 @@
 	<SubTexture name="right press0001" x="469" y="400" width="139" height="142" frameX="-3" frameY="-7" frameWidth="149" frameHeight="152"/>
 	<SubTexture name="right press0002" x="316" y="398" width="149" height="152"/>
 	<SubTexture name="right press0003" x="316" y="398" width="149" height="152"/>
-	<SubTexture name="right press0004" x="316" y="398" width="149" height="152"/>
+	<SubTexture name="right press0004" x="116" y="398" width="149" height="152"/>
 	<SubTexture name="right press0005" x="316" y="398" width="149" height="152"/>
 	<SubTexture name="right press0006" x="316" y="398" width="149" height="152"/>
 	<SubTexture name="right press0007" x="316" y="398" width="149" height="152"/>
